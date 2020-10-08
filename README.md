@@ -5,7 +5,7 @@
 
 #commands
 
-pip3 install PyQt5 
+pip3 install pyqt5
 
 python3 game.py
 
